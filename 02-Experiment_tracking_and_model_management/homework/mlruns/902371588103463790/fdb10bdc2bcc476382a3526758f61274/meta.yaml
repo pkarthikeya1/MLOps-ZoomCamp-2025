@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-ZoomCamp-2025/02-Experiment_tracking_and_model_management/homework/mlruns/902371588103463790/fdb10bdc2bcc476382a3526758f61274/artifacts
+end_time: 1748345239909
+entry_point_name: ''
+experiment_id: '902371588103463790'
+lifecycle_stage: active
+run_id: fdb10bdc2bcc476382a3526758f61274
+run_name: painted-stag-250
+run_uuid: fdb10bdc2bcc476382a3526758f61274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748344364446
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ad3a73820bf94fdb9bc2b6bf52534321/artifacts
+end_time: 1748342383136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad3a73820bf94fdb9bc2b6bf52534321
+run_name: angry-sow-228
+run_uuid: ad3a73820bf94fdb9bc2b6bf52534321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748342383122
+status: 4
+tags: []
+user_id: codespace
